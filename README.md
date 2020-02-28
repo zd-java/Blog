@@ -4,8 +4,6 @@ A small and exquisite personal blog
 # 开发工具 
 idea
 
-git
-
 # 资料
 [semantic-ui](https://semantic-ui.com/)
 
