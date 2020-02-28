@@ -8,11 +8,8 @@ import com.zd.blog.service.BlogService;
 import com.zd.blog.util.MarkDownUtils;
 import com.zd.blog.util.MyBeanUtils;
 import com.zd.blog.vo.BlogQuery;
-import org.aspectj.weaver.ast.Not;
-import org.jboss.logging.BasicLogger;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -124,7 +121,7 @@ public class BlogServiceImpl implements BlogService {
     @Transactional
     @Override
     public Blog saveBlog(Blog blog) {
-        if (blog == null) {
+        if (blog.getId() == null) {
             blog.setCreateTime(new Date());
             blog.setUpdateTime(new Date());
             blog.setViews(0);

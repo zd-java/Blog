@@ -1,9 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28dc93f4-64fb-4647-af5a-8b9df46bef52" name="Default Changelist" comment="">
+    <list default="true" id="28dc93f4-64fb-4647-af5a-8b9df46bef52" name="Default Changelist" comment="solve createTime and views always null">
+      <change afterPath="$PROJECT_DIR$/log/blog-dev.log.2020-02-27.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/BUGS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/CHANGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/Gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/editormd.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/scripts/linenumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/scripts/prettify/lang-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/scripts/prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/styles/jsdoc-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/styles/prettify-jsdoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/docs/styles/prettify-tomorrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.amd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/@links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/auto-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/change-mode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/code-fold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/custom-keyboard-shortcuts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/custom-toolbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/define-plugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/delay-renderer-preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/dynamic-create-editormd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/emoji.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/extends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/external-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/flowchart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/form-get-value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/full.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/goto-line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/html-preview-markdown-to-html-custom-toc-container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/html-preview-markdown-to-html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/html-tags-decode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/image-cross-domain-upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/image-upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/images/editormd-screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/js/require.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/js/sea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/js/seajs-main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/js/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/katex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/manually-load-modules.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/multi-editormd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/multi-languages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/on-off.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onfullscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onpreviewing-onpreviewed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onresize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onscroll-onpreviewscroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/onwatch-onunwatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/page-break.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/php/cross-domain-upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/php/editormd.uploader.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/php/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/php/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/php/upload_callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/readonly.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/resettings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/search-replace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/sequence-diagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/set-get-replace-selection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/sync-scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/task-lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/toolbar-auto-fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/use-requirejs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/use-seajs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/examples/use-zepto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.codemirror.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.dialog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.preview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.preview.themes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.tab.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/editormd.themes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/github-markdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/lib/prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/lib/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/scss/prettify.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/src/editormd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/bootstrap-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/codemirror-searchbox-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/codemirror-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/js/searchbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/katex-tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/marked-@at-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/marked-emoji-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/marked-heading-link-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/marked-todo-list-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/qunit/qunit-1.16.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/tests/qunit/qunit-1.16.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/babeb57e-a603-4c12-957c-02fa5d4a1191.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/babeb57e-a603-4c12-957c-02fa5d4a1191.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blog-dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog-dev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/plugins/image-dialog/image-dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/lib/editormd/plugins/image-dialog/image-dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zd/blog/po/Blog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zd/blog/po/Blog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zd/blog/service/impl/BlogServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/editormd.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/editormd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/editormd-logo.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-16x16.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-16x16.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-24x24.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-24x24.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-32x32.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-32x32.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-48x48.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-48x48.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-64x64.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/images/logos/editormd-favicon-64x64.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/editormd/plugins/image-dialog/image-dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/lib/editormd/plugins/image-dialog/image-dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/_fragments.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/_fragments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/blogs-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/blogs-input.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,19 +212,102 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_blog">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="6" column="94" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
+              <folding>
+                <element signature="e#2#14#0" expanded="true" />
+                <element signature="e#2#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/BlogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="123" column="35" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4028#4029#0" expanded="true" />
+                <element signature="e#4073#4074#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="217" column="7" selection-start-line="217" selection-start-column="7" selection-end-line="217" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#4;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1050">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2971#2972#0" expanded="true" />
+                <element signature="e#3015#3016#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/BlogService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -118,7 +364,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/TypeShowController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/TagsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/service/BlogService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/ArchivesShowController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/dao/BlogRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/AboutShowController.java" />
@@ -135,21 +380,22 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/blog.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/search.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/BlogController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/_fragments.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.js" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/admin/types.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/TypeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/TagController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/admin/tags.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" />
       </list>
     </option>
   </component>
@@ -196,6 +442,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/src/main/resources/static/lib/editormd/lib/codemirror/package.json" />
+      <path value="$PROJECT_DIR$/src/main/resources/static/lib/editormd/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -218,6 +465,140 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zd" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -234,7 +615,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/pro_IDEA/blog/src/main/resources/templates/admin/types-input.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582853134766" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582871976970" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="database.data.extractors.current.id" value="SQL Inserts" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -246,9 +627,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zd.blog.util" />
-      <recent name="com.zd.blog.handler" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pro_IDEA\blog\src\main\resources\static\lib\editormd" />
+      <recent name="D:\pro_IDEA\blog\src\main\resources\static\js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pro_IDEA\blog\src\main\resources\static\lib" />
@@ -257,9 +638,9 @@
       <recent name="D:\pro_IDEA\blog\src\main\resources\static\images" />
       <recent name="D:\pro_IDEA\blog\src\main\resources\templates" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\pro_IDEA\blog\src\main\resources\static\lib\editormd" />
-      <recent name="D:\pro_IDEA\blog\src\main\resources\static\js" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zd.blog.util" />
+      <recent name="com.zd.blog.handler" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,18 +709,17 @@
       <workItem from="1582759665668" duration="4581000" />
       <workItem from="1582766147866" duration="18833000" />
       <workItem from="1582789467948" duration="12154000" />
-      <workItem from="1582847299947" duration="3832000" />
+      <workItem from="1582847299947" duration="18951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262663000" />
+    <option name="totallyTimeSpent" value="277782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -349,15 +729,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34562212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3430769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.359447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
@@ -415,71 +795,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solve createTime and views always null" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve createTime and views always null" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/po/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/web/ArchivesShowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/BlogService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/dao/BlogRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="31" column="129" selection-start-line="31" selection-start-column="129" selection-end-line="31" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/web/AboutShowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="119" column="29" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error/500.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="80" column="12" lean-forward="true" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/hello.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/login.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -591,49 +911,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/editormd.js" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor.md/editormd.min.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/BlogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor.md/css/editormd.css" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/css/editormd.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1693">
-          <caret line="214" column="42" lean-forward="true" selection-start-line="214" selection-start-column="42" selection-end-line="214" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/types.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_blog">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -648,13 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -693,9 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/vo/BlogQuery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -703,20 +975,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="243">
-            <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_comment">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_tag">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_type">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/BlogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/po/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2971#2972#0" expanded="true" />
+            <element signature="e#3015#3016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/service/impl/BlogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="123" column="35" selection-start-line="123" selection-start-column="35" selection-end-line="123" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4028#4029#0" expanded="true" />
+            <element signature="e#4073#4074#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://babeb57e-a603-4c12-957c-02fa5d4a1191/schema/blog/table/t_blog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/css/editormd.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zd/blog/web/admin/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/images/logos/editormd-favicon-16x16.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/images/logos/editormd-favicon-24x24.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/images/logos/vi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/images/loading.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="6" column="94" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
+          <folding>
+            <element signature="e#2#14#0" expanded="true" />
+            <element signature="e#2#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="217" column="7" selection-start-line="217" selection-start-column="7" selection-end-line="217" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#4;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
