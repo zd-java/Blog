@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    cache: false # 开发时关闭缓存,不然没法看到实时页面
+  messages:
+    basename: i18n/messages
+
+comment.avatar: /images/avatar.png
